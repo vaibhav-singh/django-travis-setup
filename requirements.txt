@@ -52,7 +52,7 @@ google-api-python-client==1.5.0
 greenlet==0.4.10
 gunicorn==19.7.1
 hidash==0.2.28
-httplib2==0.10.3
+httplib2==0.18.0
 httpretty==0.8.10
 idna==2.5
 ipaddress==1.0.17
