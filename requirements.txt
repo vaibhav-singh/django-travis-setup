@@ -58,7 +58,7 @@ idna==2.5
 ipaddress==1.0.17
 itypes==1.1.0
 jdcal==1.2
-Jinja2==2.9.6
+Jinja2==2.11.3
 jinjasql==0.1.6
 jmespath==0.9.0
 jsonfield==1.0.3
